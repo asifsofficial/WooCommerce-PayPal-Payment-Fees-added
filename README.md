@@ -1,1 +1,1 @@
-# WooCommerce-Payment-Fees-added
+# WooCommerce-PayPal-Payment-Fees-added
